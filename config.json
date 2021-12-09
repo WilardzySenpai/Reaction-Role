@@ -1,0 +1,7 @@
+{
+  "prefix": "PREFIX",
+  "main_token": "BOT_TOKEN",
+  "mongodb_url": "MONGODB_URI",
+  "developers": ["YOUR_ID"],
+  "bot_name":"BOT_NAME"
+}
